@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "d:\\ПГНИУ\\C++\\lab22\\ConsoleApplication1\\ConsoleApplication1.sln"
+}
